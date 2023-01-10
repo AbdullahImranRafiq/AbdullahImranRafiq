@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kidycody
+- 👋 Hi, I’m @Abdullah Imran
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on basic Python Project.
