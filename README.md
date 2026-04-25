@@ -20,4 +20,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdullahImranRafiq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📊 Coding Stats
+
+<img src="https://wakatime.com/share/@abdullahimran/a1353f6b-89df-4e67-a9f3-0c48073f4d42.svg" alt="WakaTime Stats" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
